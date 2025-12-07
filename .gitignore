@@ -1,0 +1,12 @@
+# Python Bytecode (Çalıştırma sırasında üretilen dosyalar)
+*.pyc
+__pycache__/
+
+# İşletim Sistemi dosyaları (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+
+# Rehberin Kayıt Dosyası
+# rehber_kaydi.txt dosyasını Git'e dahil etmiyoruz.
+# Çünkü bu, yerel ortamda çalışan kişinin kendi verisidir.
+rehber_kaydi.txt
